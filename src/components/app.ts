@@ -1,5 +1,5 @@
-import Controller from '../controller/controller';
-import createTemplate from '../view/template';
+import Controller from './ui/controller/controller';
+import createTemplate from './ui/view/template';
 
 class App {
   private controller: Controller = new Controller();
