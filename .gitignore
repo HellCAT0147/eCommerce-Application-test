@@ -102,10 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-<<<<<<< HEAD
-.test
-.test2
-=======
-# test change
->>>>>>> 182641a7768c09c1507493d48819bd8d4a20df38
