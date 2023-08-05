@@ -9,8 +9,8 @@
     "prod": "webpack --config ./webpack.config.js --env mode=prod",
     "lint": "eslint . --ext .ts --color",
     "lint:fix": "eslint . --ext .ts --fix --color",
-    "prettier": "npx pretty-quick --staged",
     "format": "npx prettier . --write",
+    "format:staged": "npx pretty-quick --staged",
     "test": "jest",
     "prepare": "husky install"
   },
